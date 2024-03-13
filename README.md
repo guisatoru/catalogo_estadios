@@ -16,3 +16,4 @@ Catalogo de estadios de futebol do Brasil, utilizando JavaScript, HTML e CSS.
 ## 📌 Autores
 
 [<img loading="lazy" src="https://github.com/guisatoru/first_kotlin_project/assets/126101172/7b7850db-8c2d-4494-b8df-d9c4a4ee86d5" width=115><br><sub>Guilherme Satoru</sub>](https://github.com/guisatoru)
+|-----|
